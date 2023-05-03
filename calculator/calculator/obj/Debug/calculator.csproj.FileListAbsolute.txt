@@ -1,0 +1,14 @@
+C:\Users\khaled\source\repos\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\khaled\source\repos\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\khaled\source\repos\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\khaled\source\repos\calculator\calculator\obj\Debug\calculator.csprojAssemblyReference.cache
+C:\Users\khaled\source\repos\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\khaled\source\repos\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\Users\khaled\source\repos\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\khaled\source\repos\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\khaled\source\repos\calculator\calculator\obj\Debug\calculator.pdb
+C:\Users\khaled\source\repos\calculator\calculator\obj\Debug\calculator.Calculator.resources
+C:\Users\khaled\source\repos\calculator\calculator\bin\Debug\calculator.exe.manifest
+C:\Users\khaled\source\repos\calculator\calculator\bin\Debug\calculator.application
+C:\Users\khaled\source\repos\calculator\calculator\obj\Debug\calculator.exe.manifest
+C:\Users\khaled\source\repos\calculator\calculator\obj\Debug\calculator.application
